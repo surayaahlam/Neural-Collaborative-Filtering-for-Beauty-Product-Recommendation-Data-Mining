@@ -1,1 +1,1 @@
-# Neural-Collaborative-Filtering-for-Beauty-Product-Recommendation-Data-Mining-
+# Neural-Collaborative-Filtering-for-Beauty-Product-Recommendation-Data-Mining
